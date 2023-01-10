@@ -1,9 +1,6 @@
 import React from 'react'
-import Categories from "./categories"
+import Categories from "./components/categories"
 import Movie from "./components/Movie"
-import { useState } from "react"
-import allMovies from "./data"
-import categories from "./categories"
 
 const App = () => {
   return (

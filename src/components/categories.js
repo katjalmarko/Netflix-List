@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from "react"
 import "./categories.css"
-import allMovies from "./data"
+import allMovies from "../data"
 
 const categories = ["komedie", "romantický", "akční", "vtipný", "oddychový"]
 
