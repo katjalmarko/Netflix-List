@@ -9,4 +9,6 @@
 
 .reload-movie-button:hover {
   background-color: #ef3c45;
+  transform: scale(1.04);
+  transition: linear 0.2s;
 }

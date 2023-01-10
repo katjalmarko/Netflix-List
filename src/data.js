@@ -17,6 +17,7 @@ const allMovies = [
       age: "+13",
       tags: "Vtipný * Napínavý * Rodina",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "komedie"
   },
   {
       id: 2,
@@ -25,6 +26,7 @@ const allMovies = [
       age: "+13",
       tags: "Vtipný * Napínavý * Rodina",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "komedie"
   },
   {
       id: 3,
@@ -33,6 +35,7 @@ const allMovies = [
       age: "+16",
       tags: "Gangster * Napínavý * Násilí",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "romantický"
   },
   {
       id: 4,
@@ -40,6 +43,7 @@ const allMovies = [
       title: "Patriot",
       age: "+16",tags: "Gangster * Napínavý * Násilí",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "romantický"
   },
   {
       id: 5,
@@ -48,6 +52,7 @@ const allMovies = [
       age: "+16",
       tags: "Gangster * Napínavý * Násilí",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "akční"
   },
   {
       id: 6,
@@ -56,6 +61,7 @@ const allMovies = [
       age: "+16",
       tags: "Rodinný * Napínavý * Romantický",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "akční"
   },
   {
       id: 7,
@@ -64,6 +70,7 @@ const allMovies = [
       age: "+13",
       tags: "Vesmír * Napínavý * Nebezpečí",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "vtipný"
   },
   {
       id: 8,
@@ -72,6 +79,7 @@ const allMovies = [
       age: "+13",
       tags: "IT * Napínavý",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "vtipný"
   },
   {
       id: 9,
@@ -80,6 +88,7 @@ const allMovies = [
       age: "+16",
       tags: "Dokument * Napínavý",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "oddychový"
   },
   {
       id: 10,
@@ -87,6 +96,7 @@ const allMovies = [
       title: "Whoami",age: "+13",
       tags: "Gangster * Napínavý * Násilí",
       description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
+      category: "oddychový"
   },
 ]
 
